@@ -15,6 +15,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -123,7 +124,7 @@ Here are some images related to the project:
 [stars-url]: https://github.com/YMirzaa/AI-Platform/stargazers
 [issues-shield]: https://img.shields.io/github/issues/YMirzaa/AI-Platform.svg?style=for-the-badge
 [issues-url]: https://github.com/YMirzaa/AI-Platform/issues
-[license-shield]: https://img.shields.io/github/license/YMirzaa/AI-Platform.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/YMirzaa/AI-Platform?style=for-the-badge
 [license-url]: https://github.com/YMirzaa/AI-Platform/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/yusuf-mirza-altay-b03409168/
