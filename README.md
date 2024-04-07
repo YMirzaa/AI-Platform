@@ -68,6 +68,7 @@ The goal of this project is to create a versatile platform that can generate dif
 -   [![React][React.js]][React-url]
 -   [![Spring Boot][Spring Boot]][SpringBoot-url]
 -   [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
+-   [![Tailwind CSS][Tailwind CSS]][TailwindCSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,4 +138,6 @@ Here are some images related to the project:
 [PostgreSQL-url]: https://www.postgresql.org/
 [Spring Boot]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff
 [SpringBoot-url]: https://spring.io/projects/spring-boot
+[Tailwind CSS]: https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[TailwindCSS-url]: https://tailwindcss.com/
 
