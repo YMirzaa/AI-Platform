@@ -1,6 +1,5 @@
-import React from "react";
-
 import SignInForm from "@/lib/components/forms/SignInForm";
+import Link from "next/link";
 export default function LoginPage() {
 	return (
 		<div className='flex items-center justify-center h-full '>
