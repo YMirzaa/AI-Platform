@@ -3,6 +3,9 @@
 This project is an AI Platform that utilizes Open AI's API to generate various types of content such as images, videos, text, code, and music.
 
 ![Dashboard](/projectImages/dashboard.png)
+![Conversation](/projectImages/conversation.png)
+![Image](/projectImages/image.png)
+![Code](/projectImages/code.png)
 
 ## Project Description
 
