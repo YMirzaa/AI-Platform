@@ -125,7 +125,7 @@ Here are some images related to the project:
 [issues-shield]: https://img.shields.io/github/issues/YMirzaa/AI-Platform.svg?style=for-the-badge
 [issues-url]: https://github.com/YMirzaa/AI-Platform/issues
 [license-shield]: https://img.shields.io/github/license/YMirzaa/AI-Platform.svg?style=for-the-badge
-[license-url]: https://github.com/YMirzaa/AI-Platform/blob/main/LICENSE.txt
+[license-url]: https://github.com/YMirzaa/AI-Platform/blob/master/LICENSE..txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/yusuf-mirza-altay-b03409168/
 [product-screenshot]: /projectImages/dashboard.png
