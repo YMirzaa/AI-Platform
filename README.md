@@ -2,16 +2,7 @@
 
 This project is an AI Platform that utilizes Open AI's API to generate various types of content such as images, videos, text, code, and music.
 
-<p float="center" >
-  <img src="/projectImages/dashboard.png" width="45%" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/projectImages/conversation.png" width="45%" />
-</p>
-<p float="center" >
-  <img src="/projectImages/image.png" width="45%" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/projectImages/code.png" width="45%" />
-</p>
+![Dashboard](/projectImages/dashboard.png)
 
 ## Project Description
 
@@ -42,11 +33,19 @@ To get started with this project, follow these steps:
 3. Set up your Open AI API credentials.
 4. Run the application.
 
-## Contributing
+<!-- ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow the guidelines outlined in the CONTRIBUTING.md file.
+Contributions are welcome! If you'd like to contribute to this project, please follow the guidelines outlined in the CONTRIBUTING.md file. -->
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Project Images
+
+Here are some images related to the project:
+
+![Conversation](/projectImages/conversation.png)
+![Image](/projectImages/image.png)
+![Code](/projectImages/code.png)
 
