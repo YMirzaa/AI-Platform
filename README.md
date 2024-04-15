@@ -28,6 +28,8 @@
     This project is an AI Platform that utilizes Open AI's API to generate various types of content such as images, videos, text, code, and music.
     <br />
     <br />
+<!--     <a href="https://aiplatformfrontend.vercel.app/dashboard">Live Demo Without Auth</a>
+    . -->
     <a href="https://github.com/YMirzaa/AI-Platform/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/YMirzaa/AI-Platform/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
