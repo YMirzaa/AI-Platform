@@ -8,11 +8,11 @@
 		<version>3.2.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.nutriconn</groupId>
+	<groupId>com.aiplatform</groupId>
 	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>backend</name>
-	<description>Nutriconn Backend Project</description>
+	<description>AI platform Backend Project</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
